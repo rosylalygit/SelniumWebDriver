@@ -9,7 +9,7 @@ public class LearnBasics {
 	public static void main(String[] args) {
 		
 		System.out.println(" Adding a new line to test git");
-		//adding more comments
+		System.out.println(" this is the new output");
 		
 		System.setProperty("webdriver.chrome.driver", "C:\\Selenium\\chromedriverwin32\\chromedriver.exe");
 		WebDriver driver= new ChromeDriver();
