@@ -9,7 +9,7 @@ public class LearnXpath {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		//*[@id="email"]
-		
+	//	trying the check out feature
 		// Adding an xpath comment
 		System.setProperty("webdriver.chrome.driver", "C:\\Selenium\\chromedriverwin32\\chromedriver.exe");
 		WebDriver driver= new ChromeDriver();
